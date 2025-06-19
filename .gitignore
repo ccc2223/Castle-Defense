@@ -1,0 +1,6 @@
+# Ignore Markdown files
+*.md
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
